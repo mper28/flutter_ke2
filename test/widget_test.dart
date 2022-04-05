@@ -13,13 +13,13 @@ import 'package:flutter_pertama_1/main.dart';
 void main() {
 //tipe data dan variable
 //var
-  var mahasiswa = "Rohim";
-  var umur = "22";
+  var mahasiswa = "feri";
+  var umur = "21";
 
   print(mahasiswa + "Umur = " + umur);
 
 //string
-  String mahasiswaString = "sisteminformasi";
+  String mahasiswaString = "sisteminformasienterprise";
 
   print(mahasiswaString);
 
